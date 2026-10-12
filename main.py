@@ -40,4 +40,4 @@ class ScreenRecorderApp(App):
             self.label.text = f'Đang thiết lập chuẩn: {selected_ratio}'
 
 if __name__ == '__main__':
-    ScreenRecorderApp().run()
+    ScreenRecorderApp().run() 
